@@ -1,7 +1,3 @@
-AmiChat β
-
-[url] https://friendlychat-3dd11.firebaseapp.com/
-
 This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
 code for Web, Cloud Functions, Performance Monitoring. To get started, open the codelab instructions:
 
@@ -9,6 +5,8 @@ code for Web, Cloud Functions, Performance Monitoring. To get started, open the 
  - [Firebase SDK for Cloud Functions Codelab](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/).
  - [Firebase Performance Monitoring for Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-perf-mon-web/).
 
+AmiChat β
+[url] https://friendlychat-3dd11.firebaseapp.com/
 
 ## How to make contributions?
 Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
