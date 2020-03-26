@@ -1,3 +1,3 @@
-# Firebase Codelab: AmiChat β
+AmiChat β
 
 [url] https://friendlychat-3dd11.firebaseapp.com/
